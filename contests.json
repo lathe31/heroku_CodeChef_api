@@ -1,0 +1,70 @@
+{
+  "Last_Updated": "Wed, 17 Jun 2020 20:53:03 GMT",
+  "Future_Contests": [
+    {
+      "code": "CROS2020",
+      "name": "Code Chronicles 1.0",
+      "link": "https://codechef.com/CROS2020?itm_campaign=contest_listing",
+      "startDate": "19 Jun 2020 20:00:00",
+      "endDate": "19 Jun 2020   22:30:00"
+    },
+    {
+      "code": "COOK119",
+      "name": "June Cook-Off 2020",
+      "link": "https://codechef.com/COOK119?itm_campaign=contest_listing",
+      "startDate": "21 Jun 2020 21:30:00",
+      "endDate": "22 Jun 2020   00:00:00"
+    },
+    {
+      "code": "LTIME85",
+      "name": "June Lunchtime 2020",
+      "link": "https://codechef.com/LTIME85?itm_campaign=contest_listing",
+      "startDate": "27 Jun 2020 19:30:00",
+      "endDate": "27 Jun 2020   22:30:00"
+    },
+    {
+      "code": "JULY20",
+      "name": "July Challenge 2020",
+      "link": "https://codechef.com/JULY20?itm_campaign=contest_listing",
+      "startDate": "03 Jul 2020 15:00:00",
+      "endDate": "13 Jul 2020   15:00:00"
+    },
+    {
+      "code": "COJK2020",
+      "name": "CodeJunk",
+      "link": "https://codechef.com/COJK2020?itm_campaign=contest_listing",
+      "startDate": "05 Jul 2020 20:00:00",
+      "endDate": "05 Jul 2020   22:00:00"
+    }
+  ],
+  "Current_Contests": [
+    {
+      "code": "LEARNDSA",
+      "name": "DSA Learning Series (Contest 10 added)",
+      "link": "https://codechef.com/LEARNDSA?itm_campaign=contest_listing",
+      "startDate": "30 Mar 2020 00:00:00",
+      "endDate": "30 Mar 2021   00:00:00"
+    },
+    {
+      "code": "IARCSJUD",
+      "name": "IARCS OPC Judge Problems",
+      "link": "https://codechef.com/IARCSJUD?itm_campaign=contest_listing",
+      "startDate": "09 Oct 2019 00:00:00",
+      "endDate": "08 Oct 2021   03:00:00"
+    },
+    {
+      "code": "INOIPRAC",
+      "name": "Past INOI Problems",
+      "link": "https://codechef.com/INOIPRAC?itm_campaign=contest_listing",
+      "startDate": "05 Jan 2019 00:00:00",
+      "endDate": "27 Jun 2024   00:00:00"
+    },
+    {
+      "code": "ZCOPRAC",
+      "name": "Past ZCO Problems",
+      "link": "https://codechef.com/ZCOPRAC?itm_campaign=contest_listing",
+      "startDate": "05 Nov 2018 00:00:00",
+      "endDate": "27 Apr 2024   00:00:00"
+    }
+  ]
+}
